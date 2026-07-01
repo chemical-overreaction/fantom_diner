@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"InspirirationalQuote",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.826667,
+  "exportDir":"",
+  "name":"InspirirationalQuote",
+  "parent":{
+    "name":"Fantom's Dinerv3",
+    "path":"Fantom's Dinerv3.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"InspirirationalQuote.mp3",
+  "volume":1.0,
+}

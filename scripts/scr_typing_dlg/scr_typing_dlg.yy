@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_typing_dlg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_typing_dlg",
+  "parent":{
+    "name":"dialogue",
+    "path":"folders/dialogue.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
