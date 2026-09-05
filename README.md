@@ -1,2 +1,2 @@
 # fantom_diner
-game jam project
+Juniper devs serious game jam game
